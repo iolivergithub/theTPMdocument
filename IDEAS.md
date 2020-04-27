@@ -21,3 +21,9 @@ Based on suggestions from Paul and Daniel I started writing two articles/tutoria
 - How to protect your private keys using a TPM?
 
 I guess both of these fall into the Application category, although the second can be extended to TLS as recommended by Daniel.
+
+=== 27 April 2020 - Ian Oliver
+
+The trusted device lifecycle.... manufacturing->provisioning (OEMs, manufacturer, customer)->poweron->boot->load time->run-time->reboot->deprovisoning
+
+Failures
